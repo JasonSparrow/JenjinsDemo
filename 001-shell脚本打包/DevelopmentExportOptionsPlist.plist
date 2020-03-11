@@ -7,9 +7,9 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.lgcoder.cooci.cn</key>
-		<string>iOSADHocDistributionProvisioning</string>
+		<string>com.qinggan.ceshi</string>
 	</dict>
 	<key>app identifier</key>
-	<string>com.lgcoder.cooci.cn</string>
+	<string>com.qinggan.ceshi</string>
 </dict>
 </plist>
